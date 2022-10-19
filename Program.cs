@@ -1,5 +1,3 @@
-﻿using System.Drawing;
-
 class Snake
 {
     public static Random rand = new Random();
