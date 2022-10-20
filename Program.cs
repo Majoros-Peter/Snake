@@ -1,3 +1,7 @@
+using System;
+using System.Threading;
+using System.Linq;
+
 class Snake
 {
     public static Random rand = new Random();
